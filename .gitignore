@@ -2,3 +2,4 @@ index.html
 *.exe
 input.txt
 output.txt
+.vscode/
